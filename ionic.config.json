@@ -1,0 +1,7 @@
+{
+  "name": "representame_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
